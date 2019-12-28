@@ -1,0 +1,9 @@
+name: 'Mercury'
+version: '0.0.1-SNAPSHOT'
+author: 'nhh'
+main: 'com.niklashanft.mercury.Mercury'
+api-version: '1.14'
+commands:
+  passwd:
+    description: 'Set your password for the mercury app'
+    usage: '/passwd newPassword'
